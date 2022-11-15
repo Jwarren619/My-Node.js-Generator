@@ -18,6 +18,9 @@ While creating this application, I learned how important it is to always have a 
 
 
 ## Installation
+Step 1-
+Step 2-
+Step 3-
 
 
 ## Usage
