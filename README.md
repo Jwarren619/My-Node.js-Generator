@@ -9,18 +9,25 @@ While creating this application, I learned how important it is to always have a 
 
 
 ## Table of Contents
-- Installation (#installation)
-- Usage (#usage)
-- License (#license)
-- Contributing (#contributing)
-- Tests (#tests)
-- Questions (#questions)
+
+[-Installation](##Installation)
+
+[-Usage](##Usage)
+
+[-License](##License)
+
+[-Contributing](##Contributing)
+
+[-Tests](##Tests)
+
+[-Questions](##Questions)
 
 
 ## Installation
-Step 1-
-Step 2-
-Step 3-
+Step 1- Open up the link
+Step 1- Open up the VS Code Terminal
+Step 2-Enter 'node index.js
+Step 3- You will be asked some questions about your ReadMe.
 
 
 ## Usage
