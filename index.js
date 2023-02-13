@@ -42,7 +42,7 @@ const questions = [{
             type: 'input',
             message: 'What test commands are you using for this project? If you are using it.',
             name: 'Test commands',
-   } ]
+   }]
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
 

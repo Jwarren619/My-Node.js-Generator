@@ -10,17 +10,17 @@ While creating this application, I learned how important it is to always have a 
 
 ## Table of Contents
 
-[-Installation](##Installation)
+[Installation](#installation)
 
-[-Usage](##Usage)
+[Usage](#usage)
 
-[-License](##License)
+[License](#license)
 
-[-Contributing](##Contributing)
+[Contributing](#contributing)
 
-[-Tests](##Tests)
+[Tests](#tests)
 
-[-Questions](##Questions)
+[Questions](#questions)
 
 
 ## Installation
